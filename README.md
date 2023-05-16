@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Lawal Afeez, a Backend Engineer at Primaldux Technologies
+I am Lawal Afeez, a Backend Engineer, I Love exploring new Technologies.
 
 
 ## 🌐 Socials:
